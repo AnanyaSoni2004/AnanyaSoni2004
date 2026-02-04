@@ -81,7 +81,7 @@ Git · GitHub · JWT Auth · REST APIs · Cloud Deployment
 
 ## 📫 Connect With Me
 
-* 🔗 GitHub: [https://github.com/asnst](https://github.com/asnst)
+* 🔗 GitHub: https://github.com/AnanyaSoni2004
 * 💼 LinkedIn: [https://www.linkedin.com/in/ananya-soni-699086165/](https://www.linkedin.com/in/ananya-soni-699086165/)
 * 🧠 LeetCode: [https://leetcode.com/u/ananyasoni-2004/](https://leetcode.com/u/ananyasoni-2004/)
 * 📧 Email: [ananya.soni2024@nst.rishihood.edu.in](mailto:ananya.soni2024@nst.rishihood.edu.in)
