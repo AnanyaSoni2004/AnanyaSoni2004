@@ -78,7 +78,8 @@ class MLEngineer:
 ### GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnanyaSoni2004&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnanyaSoni2004&layout=compact&theme=transparent&hide_border=true"/>
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaSoni2004&layout=compact&theme=transparent&hide_border=true"/>
 </div>
 
