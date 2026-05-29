@@ -113,7 +113,7 @@ Contribution Journey
 ---
 
 <div align="center">
-  <i>"Your favorite quote here!"</i>
+  <i>"Data is the new oil, and machine learning is the refinery."</i>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=AnanyaSoni2004&label=Profile%20Views&color=00f7ff&style=for-the-badge"/>
 </div>
