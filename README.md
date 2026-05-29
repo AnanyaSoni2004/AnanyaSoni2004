@@ -89,11 +89,12 @@ class MLEngineer:
 
 ---
 <!-- ============ CONTRIBUTION JOURNEY (activity graph) ============ -->
-<!-- A line graph of your contributions over time. No setup needed. -->
-<!-- Theme options: github-compact, react-dark, tokyo-night, dracula, high-contrast, etc. -->
+<!-- A profile card + area graph of your contributions. No setup needed. -->
+<!-- Themes: react-dark, github-dark, tokyo-night, dracula, github-compact, etc. -->
+<!-- bg_color / color / line / point use hex WITHOUT the # (e.g. 0d1117). area=true gives the filled look. -->
 Contribution Journey
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanyaSoni2004&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanyaSoni2004&bg_color=0d1117&color=c770f0&line=c770f0&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
 <!-- ============ PACMAN CONTRIBUTION GRAPH ============ -->
