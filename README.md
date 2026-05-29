@@ -88,6 +88,13 @@ class MLEngineer:
 </div>
 
 ---
+<!-- ============ CONTRIBUTION JOURNEY (activity graph) ============ -->
+<!-- A line graph of your contributions over time. No setup needed. -->
+<!-- Theme options: github-compact, react-dark, tokyo-night, dracula, high-contrast, etc. -->
+Contribution Journey
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanyaSoni2004&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</div>
 
 <!-- ============ PACMAN CONTRIBUTION GRAPH ============ -->
 <!-- This needs a one-time GitHub Action setup — see notes in the chat. -->
