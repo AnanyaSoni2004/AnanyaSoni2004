@@ -17,14 +17,14 @@
 ```python
 class MLEngineer:
     def __init__(self):
-        self.name = "ANANYA SONI"                      # <-- EDIT
-        self.role = "AI/ML Developer | Data Enthusiast" # <-- EDIT
-        self.education = "Your Degree @ Your School"    # <-- EDIT
+        self.name = "ANANYA SONI"                     
+        self.role = "AI/ML Developer | Data Enthusiast" 
+        self.education = "Bachelors of Technology in Computer Science with specialisation in Artificial Intelligence"    
         self.interests = [
             "Machine Learning",
             "Deep Learning",
             "Data Science",
-            "Computer Vision / NLP",          # <-- EDIT to your area
+            "Computer Vision / NLP",          
         ]
 
     def current_focus(self):
