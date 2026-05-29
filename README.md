@@ -1,91 +1,101 @@
-# Hi, I'm Ananya Soni 👋
+<!-- ============ ANIMATED HEADER ============ -->
+<!-- Change text=, color=, animation= to taste. See github.com/kyechan99/capsule-render -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I%20am%20YOUR_NAME&fontAlignY=32&desc=Your%20tagline%20goes%20here&descAlignY=60&descSize=26&animation=twinkling)
 
-## 👩‍💻 About Me
-
-Backend-focused Computer Science undergraduate specializing in **Artificial Intelligence**, with strong experience in **Python**, **Node.js**, and building **scalable, reliable systems**. I enjoy solving real-world problems through clean APIs, efficient databases, and AI-powered applications.
-
-* 🎓 B.Tech in Artificial Intelligence (2024–2028), NST @ Rishihood University
-* 💻 300+ problems solved on **LeetCode, Codeforces, and CodeChef**
-* 🚀 Passionate about **Backend Engineering, GenAI, and System Design**
-* 🌱 Currently exploring **Agentic AI, SaaS architectures, and ML research**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ============ ABOUT ME (code block style) ============ -->
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "YOUR NAME"                        # <-- EDIT
+        self.role = "Your Role | Your Title"           # <-- EDIT
+        self.education = "Your Degree @ Your School"   # <-- EDIT
+        self.interests = [
+            "Interest One",
+            "Interest Two",
+            "Interest Three",
+        ]
+
+    def current_focus(self):
+        return {
+            "building":  "What you're building",
+            "learning":  "What you're learning",
+            "exploring": "What you're exploring",
+        }
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ============ TECH STACK BADGES ============ -->
+<!-- Grab more badges or change colors at https://shields.io  -->
+### Tech Arsenal
 
 **Languages**
-JavaScript · Python · HTML · CSS
 
-**Backend & Databases**
-Node.js · Express.js · MongoDB · MySQL · PostgreSQL · Prisma ORM
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend**
-React · Next.js · React Native · Bootstrap
+**Frameworks & Tools**
 
-**AI / ML**
-Machine Learning · GenAI · API-based AI Systems
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Tools & Platforms**
-Git · GitHub · JWT Auth · REST APIs · Cloud Deployment
+**Databases**
 
----
-
-## 📌 Featured Projects
-
-### 🚀 QuickAI (AI SaaS Platform)
-
-* Production-grade AI SaaS with **JWT authentication**
-* Advanced **search, filter, sort, pagination** using PostgreSQL + Prisma
-* Integrated **OpenAI & Replicate APIs** for content, image & resume generation
-* Subscription billing, secure file storage & scalable API architecture
-
-🔗 [GitHub](https://github.com/AnanyaSoni2004/QUICK_AI_Project) | [Live Demo](https://quick-ai-project-2gk1.vercel.app/)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 🏠 Private Property Rental Platform
+<!-- ============ GITHUB STATS ============ -->
+<!-- Replace YOUR_USERNAME everywhere below. theme options: transparent, radical, dark, tokyonight, etc. -->
+### GitHub Analytics
 
-* React-based real estate discovery platform
-* Search & filter properties by **location, budget, and preferences**
-* Clean UI with optimized state management
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+</div>
 
-🔗 [GitHub](https://github.com/AnanyaSoni2004/Private-property-search.git) | [Live Demo](https://private-property-search-mkx7.vercel.app/)
-
----
-
-## 📄 Research & Experience
-
-### 📊 Battery Analytics – Machine Learning (Co-author)
-
-**Under Review**
-*Real-World Analysis of Machine Learning and Pi-Model Techniques for SoC Prediction in Urban Electric Buses*
-
-* Built ML & Pi-model-based forecasting system for battery SoC prediction
-* Improved prediction accuracy under real-world operating conditions
-
-### 🔬 Research Intern – IIT Delhi (HCI)
-
-* Worked under **Prof. Jyoti Kumar** on AR-based educational interventions
-* Designed & evaluated AR prototypes to improve learning engagement
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+</div>
 
 ---
 
-## 🌍 Leadership & Achievements
+<!-- ============ PACMAN CONTRIBUTION GRAPH ============ -->
+<!-- This needs a one-time GitHub Action setup — see notes in the chat. -->
+### Contributions Pacman
 
-* 🧠 **The Residency (Powered by Sam Altman)** – Selected AI builder
-* 🌏 **HPAIR @ Harvard University** – Represented India (2–3% acceptance rate)
-* 📚 **Founder & CEO – Booksyell (Non-profit)**
-  Empowered **1500+ students** with computer literacy and raised **$1000**
-
----
-
-## 📫 Connect With Me
-
-* 🔗 GitHub: https://github.com/AnanyaSoni2004
-* 💼 LinkedIn: [https://www.linkedin.com/in/ananya-soni-699086165/](https://www.linkedin.com/in/ananya-soni-699086165/)
-* 🧠 LeetCode: [https://leetcode.com/u/ananyasoni-2004/](https://leetcode.com/u/ananyasoni-2004/)
-* 📧 Email: [ananya.soni2024@nst.rishihood.edu.in](mailto:ananya.soni2024@nst.rishihood.edu.in)
+![pacman contribution graph](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg)
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+<!-- ============ SOCIAL LINKS ============ -->
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
+
+---
+
+<div align="center">
+  <i>"Your favorite quote here!"</i>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00f7ff&style=for-the-badge"/>
+</div>
