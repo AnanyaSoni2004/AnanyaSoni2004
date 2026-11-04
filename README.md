@@ -67,6 +67,70 @@ ananya@ml-lab:~$ ./current_status --verbose
 
 ---
 
+<!-- ============ FEATURED PROJECTS ============ -->
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [🚨 Smart City Dispatch Grid](https://github.com/AnanyaSoni2004/The-Smart-City-Dynamic-Dispatch-Grid)
+Multi-agent AI swarm for disaster-time emergency dispatch. It triages noisy 911 transcripts into incidents, prioritises by lives at risk and dispatches resources on real OpenStreetMap road networks, with live Seattle Fire Dept data.
+
+<img src="https://img.shields.io/badge/Multi--Agent-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/Python-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/WebSocket-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/OpenStreetMap-302b63?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+### [📈 VolSight — Neural Option Pricing](https://github.com/AnanyaSoni2004/volSight)
+An LSTM forecasts volatility, then Black–Scholes prices that forecast exactly, benchmarked against a plain Black–Scholes baseline on GARCH market data. Includes an interactive Streamlit dashboard.
+
+<img src="https://img.shields.io/badge/LSTM-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/Quant_Finance-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-302b63?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🛠️ AI Coding Harness](https://github.com/AnanyaSoni2004/ai-harness-evaluator)
+Autonomous coding agent that takes a GitHub issue and a repo and returns a minimal, verified fix: it reproduces the bug, localises it, fixes it and proves the fix with tests. Built for the LCC × DevClub Hackathon 2026.
+
+<img src="https://img.shields.io/badge/LLM_Agents-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/Python-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/Hackathon-302b63?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+### [⚛️ Higgs Boson Signal Detection](https://github.com/AnanyaSoni2004/Higgs-Boson-Classification)
+Deep networks vs. tuned XGBoost on 11M simulated LHC collision events, plus hybrid models. Reproduces Baldi et al. (2014) with calibrated, statistically tested comparisons.
+
+<img src="https://img.shields.io/badge/Deep_Learning-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/Research-302b63?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [💬 MMM Intelligence Copilot](https://github.com/AnanyaSoni2004/MMM-Intelligence-Copilot)
+Multi-agent assistant for Marketing Mix Modeling analysts: natural-language ROI queries, budget forecasts, cited RAG insights and data anomaly detection.
+
+<img src="https://img.shields.io/badge/LLaMA_3.3-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/ChromaDB-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-302b63?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+### [🌾 AgroAgent](https://github.com/AnanyaSoni2004/CropYieldPrediction_Agent)
+Five specialised agents (soil ML model, weather, market prices, RAG knowledge, LLM decision) recommend the best crop for a farmer's field, with fallbacks so it always answers.
+
+<img src="https://img.shields.io/badge/Multi--Agent-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/Random_Forest-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-302b63?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><b>More:</b> [🩺 PyTorch Model Doctor](https://github.com/AnanyaSoni2004/PytorchModelDoctor) · [🔬 Inference Signatures](https://github.com/AnanyaSoni2004/Inference_Telemetry) · [💳 Fraud Detection (1M transactions)](https://github.com/AnanyaSoni2004/E_G14_TransactionsFraudDetection)</p>
+
+---
+
 <!-- ============ STATS ============ -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
