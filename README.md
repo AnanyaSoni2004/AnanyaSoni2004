@@ -71,8 +71,8 @@ ananya@ml-lab:~$ ./current_status --verbose
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnanyaSoni2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c770f0&icon_color=c770f0&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnanyaSoni2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c770f0"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnanyaSoni2004&theme=tokyonight"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnanyaSoni2004&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -80,7 +80,7 @@ ananya@ml-lab:~$ ./current_status --verbose
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnanyaSoni2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+  <img src="https://github-trophies.vercel.app/?username=AnanyaSoni2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"/>
 </div>
 
 ---
@@ -89,7 +89,7 @@ ananya@ml-lab:~$ ./current_status --verbose
 <h3 align="center">📈 Contribution Journey</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanyaSoni2004&bg_color=0d1117&color=c770f0&line=c770f0&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnanyaSoni2004&theme=tokyonight" width="95%"/>
 </div>
 
 <h3 align="center">👾 Contributions Pacman</h3>
